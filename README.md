@@ -26,6 +26,7 @@ geoprocessamento/
 ├── mapa_sjc.py              # Script principal para gerar o mapa
 ├── exploracao.ipynb         # Notebook de testes (opcional)
 └── README.md                # Descrição do projeto
+``` 
 
 Funcionalidades
 Funcionalidade	Descrição
